@@ -56,4 +56,4 @@
 
 ---
 
-⭐ **Fun Fact:** I’m always up for collaborating on projects that drive innovation! Let’s build something amazing together. 🚀
+⭐ **Fun Fact:** I’m always up for collaborating on projects that drive innovation. Let’s build something amazing together!
