@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Benjamin Xie 👋</h1>
+
+<p align="center">
+   <a href="https://www.ben-xie.com"><img src="https://img.shields.io/badge/Visit-My%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</p>
+
 <p align="center">
    <strong>Aspiring ML Engineer | Software Developer | Cloud Enthusiast 🚀</strong>
 </p>
@@ -44,10 +49,11 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-   <a href="https://www.ben-xie.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/benjamin-xie-997a48249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/benjamin-xie-997a48249/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+   </a>
 </p>
 
 ---
 
-⭐ **Fun Fact:** I’m always up for collaborating on projects that drive innovation! Let’s build something amazing together. Send me a message if interested! 🚀
+⭐ **Fun Fact:** I’m always up for collaborating on projects that drive innovation! Let’s build something amazing together. 🚀
