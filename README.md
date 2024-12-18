@@ -14,7 +14,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-    <img src="https://ben-stats-benjaminxie1s-projects.vercel.app/api?username=benjaminxie1&show_icons=true&theme=radical" alt="Ben's GitHub Stats" width="48%">
+    <img src="https://ben-stats-benjaminxie1s-projects.vercel.app/api?username=benjaminxie1&show_icons=true&theme=radical&include_all_commits=true" alt="Ben's GitHub Stats" width="48%">
 </p>
 
 ---
