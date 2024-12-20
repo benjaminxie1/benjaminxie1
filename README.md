@@ -17,16 +17,6 @@
     <img src="https://ben-stats-benjaminxie1s-projects.vercel.app/api?username=benjaminxie1&show_icons=true&theme=radical&include_all_commits=true" alt="Ben's GitHub Stats" width="48%">
 </p>
 
----
-
-##  What I Do  
-
-- 🤖 **Machine Learning**: Developing intelligent models using **PyTorch** and **YOLOv8**.  
-- 💻 **Software Engineering**: Building full-stack applications with **ReactJS** and **RESTful APIs**.  
-- ☁️ **Cloud Computing**: Designing scalable systems with **AWS** and leveraging cloud solutions.  
-
----
-
 ## 🛠️ Technologies & Tools  
 
 | **Category**         | **Tools**                          |
@@ -39,18 +29,18 @@
 
 ## 🌟 Featured Projects  
 
-### 🔥 **Sentinel | Fire Detection Web Application**  
+###  **Sentinel | Fire Detection Web Application**  
 
-- 🚒 Developed a wildfire detection system powered by **PyTorch** and **YOLOv8**.  
-- 🗺️ Integrated **Google Maps API** for geospatial heatmaps predicting burn areas.  
-- 🏆 **Award**: 1st Place in the **Congressional App Challenge**. Displayed at the **US Capitol**.  
+- Developed a wildfire detection system powered by **PyTorch** and **YOLOv8**.  
+- Integrated **Google Maps API** for geospatial heatmaps predicting burn areas.  
+- **Award**: 1st Place in the **Congressional App Challenge**. Displayed at the **US Capitol**.  
 
 ---
 
-### 🌿 **Plant Monitoring System with Arduino**  
+### **Plant Monitoring System with Arduino**  
 
-- 🛠️ Created a system to analyze **soil health** and **environmental data** using Arduino.  
-- 🌱 Leveraged **open-source data** for actionable insights to support sustainable plant care.  
+- Created a system to analyze **soil health** and **environmental data** using Arduino.  
+- Leveraged **open-source data** for actionable insights to support sustainable plant care.  
 
 ---
 
@@ -63,5 +53,3 @@
 </p>
 
 ---
-
-⭐ **Fun Fact:** I’m always up for collaborating on projects that drive innovation. Let’s build something amazing together! 
