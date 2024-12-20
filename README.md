@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <strong>Aspiring ML Engineer | Software Developer | Cloud Enthusiast 🚀</strong>
+    <strong>Software Developer</strong>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 What I Do  
+##  What I Do  
 
 - 🤖 **Machine Learning**: Developing intelligent models using **PyTorch** and **YOLOv8**.  
 - 💻 **Software Engineering**: Building full-stack applications with **ReactJS** and **RESTful APIs**.  
