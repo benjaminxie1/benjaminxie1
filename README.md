@@ -37,10 +37,11 @@
 
 ---
 
-### **Plant Monitoring System with Arduino**  
+### **Rootify | Satellite Imagery to 3D Model Machine Learning Application**  
 
-- Created a system to analyze **soil health** and **environmental data** using Arduino.  
-- Leveraged **open-source data** for actionable insights to support sustainable plant care.  
+- Created a **AI-powered** embedded systems application to convert **satellite imagery** to **3D models**. 
+- Leveraged **open-source data** for actionable insights to support sustainable crop care.
+- **Award**: 1st Place in the **Hackathon by the Sea**. Displayed in **local news**. 
 
 ---
 
