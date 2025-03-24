@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Benjamin Xie 👋</h1>  
+<h1 align="center">Benjamin Xie</h1>  
 
 <p align="center">
     <a href="https://www.ben-xie.com" style="text-decoration: none;">
