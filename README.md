@@ -25,26 +25,6 @@
 | ⚙️ **Frameworks**     | PyTorch, ReactJS                   |
 | ☁️ **Cloud & Tools**  | AWS, Linux, Git, YOLOv8            |
 
----
-
-## 🌟 Featured Projects  
-
-###  **Sentinel | Fire Detection Web Application**  
-
-- Developed a wildfire detection system powered by **PyTorch** and **YOLOv8**.  
-- Integrated **Google Maps API** for geospatial heatmaps predicting burn areas.  
-- **Award**: 1st Place in the **Congressional App Challenge**. Displayed at the **US Capitol**.  
-
----
-
-### **Rootify | Satellite Imagery to 3D Model Machine Learning Application**  
-
-- Created a **AI-powered** embedded systems application to convert **satellite imagery** to **3D models**. 
-- Leveraged **open-source data** for actionable insights to support sustainable crop care.
-- **Award**: 1st Place in the **Hackathon by the Sea**. Displayed in **local news**. 
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
